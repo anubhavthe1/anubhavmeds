@@ -60,22 +60,22 @@ function Products() {
 
       <div className="grid">
         <div className="card">
-          <img src="https://images.unsplash.com/photo-1584305574647-1b7b0b3b3e0f" />
+          <img src="https://images.apollo247.in/pub/media/catalog/product/C/R/CRO0091_1.jpg" />
           <p>Crocin</p>
         </div>
 
         <div className="card">
-          <img src="https://images.unsplash.com/photo-1586015555751-63bb77f4322a" />
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmck9kz59tCOjsmDyrEOOb5kzjbIOPYxtjAg&s" />
           <p>Rantac</p>
         </div>
 
         <div className="card">
-          <img src="https://images.unsplash.com/photo-1612821745127-53855be9cbd0" />
+          <img src="https://images.apollo247.in/pub/media/catalog/product/v/o/vol0143_1-may23_2_.jpg?tr=q-80,f-webp,w-400,dpr-3,c-at_max%20400w" />
           <p>Volini</p>
         </div>
 
         <div className="card">
-          <img src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5" />
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI9o0kdOaMgqjlwju8oXgy7i6FHL2iknWWvQ&shttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9f2GbTbAHQJ_fI0HGMlAJjRpxZokUHUPmg&s" />
           <p>Bandages</p>
         </div>
       </div>
@@ -84,22 +84,22 @@ function Products() {
 
       <div className="grid">
         <div className="card">
-          <img src="https://images.unsplash.com/photo-1580281658629-6a0d53a0b0fa" />
+          <img src="https://images.unsphttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7NVmsDViS1nKRJdAGI6Lu0iEd6YkT1cCxA&slash.com/photo-1580281658629-6a0d53a0b0fa" />
           <p>Allopathy medicines available</p>
         </div>
 
         <div className="card">
-          <img src="https://images.unsplash.com/photo-1607619056574-7b8d3ee536b6" />
+          <img src="httpshttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg-WKAMyeHCZt_XKBKOhrqZ3Dz3r-ekiUV4A&s://images.unsplash.com/photo-1607619056574-7b8d3ee536b6" />
           <p>Homeopathy medicines available</p>
         </div>
 
         <div className="card">
-          <img src="https://images.unsplash.com/photo-1580281657521-6b2b9e1aaf6f" />
+          <img src="https://imahttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLU7h0cdnX8yFq-73gpabJjRLSJDVu7oQZ4w&sges.unsplash.com/photo-1580281657521-6b2b9e1aaf6f" />
           <p>Doctor appointments available</p>
         </div>
 
         <div className="card">
-          <img src="https://images.unsplash.com/photo-1588776814477-6b3d4e7bb6c3" />
+          <img src="https://images.unsphttps://images.apollo247.in/pd-cms/cms/2025-09/AdobeStock_1381909723.webp?tr=q-80,f-webp,w-400,dpr-2.5,c-at_max%201000wlash.com/photo-1588776814477-6b3d4e7bb6c3" />
           <p>Blood sugar testing available</p>
         </div>
       </div>
